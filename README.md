@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nkengbeza Clinton
-- 👀 I’m interested in Back-End Software Engineering and Blockchain
-- 🌱 I’m currently learning RustLang and Blockchain
-- 💞️ I’m looking to collaborate on any awesome Blockchain project
-- 📫 You can reach me via nkengbeza@yandex.ru
+- 👋 Hi, I’m Nkengbeza Clinton (👑 Da Duke)
+- 👀 I’m passionate about Fintech and building technology-driven solutions
+- 🌱 I’m constantly learning how to leverage technology to solve real-world problems and improve lives
+- 💞️ I’m open to collaborating on innovative and impactful projects
+- 📫 You can reach me on Telegram: [@nkengbeza)[https://t.me/nkengbeza)
 
 <!---
 nkengbeza/nkengbeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
